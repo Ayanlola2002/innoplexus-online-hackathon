@@ -1,2 +1,2 @@
-# innoplexus-online-hackathon
+# Innoplexus-online-hackathon
 The ipynb is self-explanatory
